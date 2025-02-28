@@ -1,316 +1,628 @@
 {
-    "quizSrc": [
-{
-    "term": "3. Which of the following is a well-written brand value for innovation for a company in the sports business?",
-    "definition": "c. Giving R&D the liberty to come up with whichever product they think will be the next big hit"
-  },
-  {
-    "term": "4. One of the criteria for evaluating brand strategies is being relevant. Which of the answers below explains what it means to be relevant?",
-    "definition": "d. It means being meaningful to your target customers"
-  },
-  {
-    "term": "5. Read the following phrase and think about our lemonade business. Select whether the statement is an end-benefit, an attribute or neither for our lemonade business: \"Our lemonade makes you feel fresh and energized\"",
-    "definition": "C. End-benefit"
-  },
-  {
-    "term": "6. What is brand equity?",
-    "definition": "C. It outlines the proof points or what the brand is claiming to credibly deliver on the positioning a. A set of assets (and liabilities) linked to a brand's name and symbol that adds to (or subtracts from) the value provided by a product or service to a firm and/or the firm's customers"
-  },
-  {
-    "term": "7. Which of the below are brand architecture models?",
-    "definition": "a. House of brands, hybrid and branded house"
-  },
-  {
-    "term": "8. Which of the below are indicators that you might have a brand architecture issue or opportunity?",
-    "definition": "d. All of the above"
-  },
-  {
-    "term": "9. Which one of the options below is the right input to develop your brand architecture?",
-    "definition": "b. An understanding of how the customers view & define the category"
-  },
-  {
-    "term": "10. What question does a brand portfolio tackle?",
-    "definition": "d.How should I use my brands to achieve top- and bottom-line growth?"
-  },
-  {
-    "term": "11. Read the following situation and decide whether it is a portfolio question or a brand architecture issue: \"You are launching a new low-cost product in a category where you already have a brand in a higher value tier and need to decide which brand to use.\"",
-    "definition": "a. Portfolio"
-  },
-  {
-    "term": "12. Which of the answers below is a list of key criteria to evaluate when you FIRST DECIDE to expand your brand internationally?",
-    "definition": "d. How fierce is the competition? How long have they been there? What is their presence and what are their customer loyalty levels?"
-  },
-  {
-    "term": "13. In the text below, which phases of the purchase funnel are mentioned?\nWhen searching for information for my next trip, I came across an advertisement of South Africa in a travel magazine. I went online and looked at the different itineraries that I could do in that country. I also read some of the reviews of hotels, attractions, bus and train options. I evaluated other options such as Zimbabwe, Kenya and Tanzania. Finally, I decided on South Africa and made my reservation through a travel agent in that country, who responded promptly to my request.",
-    "definition": "a.Awareness, Consideration, Purchase"
-  },
-  {
-    "term": "14. Which one of the below is an example of a touchpoint?",
-    "definition": "c. Sales clerk"
-  },
-  {
-    "term": "15. Which of the lists below best captures the different roles that your touchpoints can play in the customer experience?",
-    "definition": "a. Branded Differentiators, Signature Icons, Category Redefiners and Guest Expectations"
-  },
-  {
-    "term": "16. What is the first step to define your internal communication and training program?",
-    "definition": "d. Understanding who your audience is"
-  },
-  {
-    "term": "17. What is a crucial role to recruit when embedding the brand in your organization?",
-    "definition": "d. The Brand Champions (or Ambassadors)"
-  },
-  {
-    "term": "18. What is the most important action to take when launching a brand engagement program?",
-    "definition": "a. Have your top management's endorsement"
-  },
-  {
-    "term": "COURSE 2\n\n19. If a 10% price decrease is implemented while maintaining a contribution margin of 20%, what percentage increase in sales volume would be needed to ensure profitability?",
-    "definition": "d.90-120%"
-  },
-  {
-    "term": "20. You manage marketing at ACME & Sons. Currently, you sell 4,000 units at 10€ each. Variable costs are 5.50€ per unit, and fixed costs are 15,000€.\nIf you increase the price by 5%, what sales volume drop percentage maintains the same profit? (Assume fixed costs stay constant, and variable costs remain stable.)",
-    "definition": "a.3.5%"
-  },
-  {
-    "term": "21. By increasing the price by 5%, unit sales drop by 7%. What is the price elasticity? Is the demand elastic or inelastic?",
-    "definition": "b. 1.4"
-  },
-  {
-    "term": "22. A product is being sold at a price of €110. After a price increase to €130, the number of units sold drops from 5,000 units to 4,500 units. What is the price elasticity?",
-    "definition": "a. -0.55"
-  },
-  {
-    "term": "23. Imagine a retailer considering a 33-percent-off sale on blenders currently priced at $54. The retailer pays $29 per blender from the manufacturer.\nHow much has the volume to increase for the sale to maintain profits?",
-    "definition": "b. 248%"
-  },
-  {
-    "term": "24. Consider a wind turbine manufacturer. Currently, a 1.5 MW wind turbine has a price of $1.7M and $1.3M in variable cost.\nIf the manufacturer considers raising the price by 3%, what would be the allowable volume loss to at least maintain profits?",
-    "definition": "a.11% to 12%"
-  },
-  {
-    "term": "25. What is the price elasticity if an increase in price of 10% leads to a unit sales drop of 5%?",
-    "definition": "b.-0.5"
-  },
-  {
-    "term": "26. What statement about profit is accurate?",
-    "definition": "d. All of the mentioned"
-  },
-  {
-    "term": "27. If a respondent's estimated part-worth for a $100 price point is 50, and for a $500 price point it is 10, what is the exchange rate between utility and price in this example?",
-    "definition": "b.10"
-  },
-  {
-    "term": "28. In a BDM procedure, if the random sale price drawn is $150, and a participant's offer price is $200, how much does the participant pay to purchase the product?",
-    "definition": "c. $150"
-  },
-  {
-    "term": "29. In a segmented market, if a company wants to maximize revenue by offering different products or services to different customer segments based on their willingness to pay, which of the following pricing strategies should it use?",
-    "definition": "c. Price discrimination Charging different prices to different customer segments based on their willingness to pay"
-  },
-  {
-    "term": "30. In a scenario where a company serves four distinct customer segments with different willingness to pay for hotel rooms and theme park entrance, which pricing strategy should the company use to maximize revenue if bundling is not allowed?",
-    "definition": "a. Set a single price for both hotel room and theme park to appeal to all customer segments equally"
-  },
-  {
-    "term": "31. If Apple wants to maximize profits for the 4GB iPhone based on an experiment that segmented iPod owners and non-iPod owners, what would be the best pricing strategy?",
-    "definition": "b. Set the medium price ($399) to balance pre-order rates between iPod owners and non-owners while ensuring higher margins"
-  },
-  {
-    "term": "32. If a movie theater knows the willingness to pay of three customer segments (A, B, and C) across their first five wisits, how can it maximize revenue?",
-    "definition": "c. Charge different prices for each visit based on the highest willingness to pay for that specific visit across the three segments"
-  },
-  {
-    "term": "33. When deciding between launching the Standard or Gold version of a credit card, which factor is most important for determining which product to offer?",
-    "definition": "a. The fixed and variable costs associated with each version, along with the market size and willingness to pay in each segment"
-  },
-  {
-    "term": "34. Do consumers tend to use price as a quality indicator more often for products they buy frequently or for products they purchase for the first time?",
-    "definition": "a. First time products"
-  },
-  {
-    "term": "35.As the marketing manager responsible for television sets, you currently offer two products in your lineup: one priced at $399 and another at $499. Το stimulate sales of the existing products, what price point would you choose for introducing a new, third television set?",
-    "definition": "c. A television set at $699"
-  },
-  {
-    "term": "36. You have just recently been hired as a sales representative and today you will have your first meeting with a client. Your company offers multiple products at different prices - from cheap to expensive. When presenting to the client the overall product portfolio, how to best present the options?",
-    "definition": "a. Start at the highest priced item"
-  },
-  {
-    "term": "37. Why do price endings have an impact on consumers' decision-making process?",
-    "definition": "a. Due to the level and image effect"
-  },
-  {
-    "term": "38. In line with prospect theory, which option do consumers typically prefer: a $5 discount on a $500 produck or on a $50 product?",
-    "definition": "d. $50"
-  },
-  {
-    "term": "COUSE 3\n\n39. Who are the main intermediaries in distribution channels?\n\na. Wholesalers and retailers\n\nb. Consumers and retailers\n\nC. Wholesalers and consumers\n\nd. Retailers and manufacturers",
-    "definition": "a. Wholesalers and retailers"
-  },
-  {
-    "term": "40. Which of the following sentences defines a \"Push Strategy\"?",
-    "definition": "c. Manufacturer induces intermediaries to carry, promote and sell the product"
-  },
-  {
-    "term": "41. Which of the following is not a key factor in channel management?",
-    "definition": "c. Select"
-  },
-  {
-    "term": "42. Which of the following is not a main marketing logistics function?",
-    "definition": "b. Financing the merchandise"
-  },
-  {
-    "term": "43. What definition best reflects what a merchant wholesaler does?",
-    "definition": "b. Takes title of goods"
-  },
-  {
-    "term": "44. Which of the following is not an obstacle that producers and retailers face in their relationship?",
-    "definition": "c. Size - major concentration in order to compete"
-  },
-  {
-    "term": "45. Which of the following aspects influences a channel being shorter?",
-    "definition": "a. Complexity of purchase process"
-  },
-  {
-    "term": "46. Which one of the following segmentation criteria can you establish to minimize conflict?",
-    "definition": "a. Industry"
-  },
-  {
-    "term": "47. Which is one correct definition when describing Trade Marketing?",
-    "definition": "d. It is a strategic alliance"
-  },
-  {
-    "term": "48. Which of the following is NOT a way retailers can improve their promotion performance and increase sheir margins on promotions!",
-    "definition": "c. Design a promotion process within the department in charge"
-  },
-  {
-    "term": "49. Which classification of retailers looks at the \"breadth\" and \"depth\" of the assortment?",
-    "definition": "a. Variety of assortment of merchandise offere"
-  },
-  {
-    "term": "50. Which Pricing Strategy is the best to implement?",
-    "definition": "c. It depends on various factors"
-  },
-  {
-    "term": "51. What main activity do retailers NOT provide?",
-    "definition": "d. Keeping bulk"
-  },
-  {
-    "term": "52. What aspects from the consumer experience DOES NOT have a strong impact on brand advocacy?",
-    "definition": "b. Price"
-  },
-  {
-    "term": "53. Which is NOT a benefit of Omni-Channel Retailing, especially for the traditional store-based and catalogue retailers when using electronic channels",
-    "definition": "a. Becoming a leader"
-  },
-  {
-    "term": "54. Thinking about future retail trends, towards which age are we heading?",
-    "definition": "c. Age of the Customer"
-  },
-  {
-    "term": "55. Which of the following is NOT a critical question companies need to address to achieve customer-management excellence in emerging markets?",
-    "definition": "b. How we will maintain our strategy?"
-  },
-  {
-    "term": "56. Which of the following can retailers NOT be classified by?",
-    "definition": "c. Communication"
-  },
-  {
-    "term": "57. If we talk about entry strategies, which of the following Entry Strategies requires the highest level of investment for the retailer?",
-    "definition": "a. Direct Investment"
-  },
-  {
-    "term": "58. Which of the following Golden Rules for a successful Franchise is the most critical?",
-    "definition": "d. Select the right Partner"
-  },
-  {
-    "term": "59. refers to the nature of the relationship that customers have with the brand and the extent to which customers feel that they are \"in synch\" with the brand",
-    "definition": "b. Brand resonance"
-  },
-  {
-    "term": "COUSE 4\n\n60. Consumers that exhibit a positively biased behavior toward a specific brand are exhibiting:",
-    "definition": "a. Brand loyalty"
-  },
-  {
-    "term": "61. is the process of evaluating each consumer segment's attractiveness and selecting one or more segments according to their attractiveness for the company.",
-    "definition": "d. Targeting"
-  },
-  {
-    "term": "62. Consumers exhibiting loyalty generally have one or more specific reasons for their purchase decisions and they can easily articulate these reasons.",
-    "definition": "a. Head loyalty"
-  },
-  {
-    "term": "63. Please fill in with the concept you feel is more appropriate for the sentence.\nIn order to your communication campaign should aim to evoke a positive emotional response in consumers.",
-    "definition": "b. Change behavior"
-  },
-  {
-    "term": "64. I have seen a new version of the headset that I own. Its sound quality is enhanced and it blocks outside noise. It will help me concentrate better while I am working...\nWhich step of the consumer decision making process does this consumer statement corresponds to?",
-    "definition": "b. Need recognition"
-  },
-  {
-    "term": "65. Please indicate which of the following is NOT one of the four steps of the Selective Processes Theory:",
-    "definition": "c. Selective Adaptation"
-  },
-  {
-    "term": "66. Đâu là thứ tự đúng của các bước truyền thông hiệu quả?\na. Thiết kế truyền thông\nb. Xác định đối tượng mục tiêu\nc. Quyết định về phương tiện truyền thông\nd. Xác định mục tiêu truyền thông\ne. Chọn kênh\nf. Đo lường kết quả",
-    "definition": "3. b, d, a, e, c, f"
-  },
-  {
-    "term": "67. Please indicate which of the following is NOT ane of the dimensions of the FCB Grid:",
-    "definition": "B. Reactive"
-  },
-  {
-    "term": "68. AIDA stands for attention__________, desire and _________",
-    "definition": "Interest, action"
-  },
-  {
-    "term": "Quiz 1 Mooc 1\n\nQuestion 1\n\nBased on the information given below, please choose the answer that comes closest to the estimated number of people who go to the movies in the northeastern part of the United States.\n\nThe states included in this region are Connecticut, Delaware, Maine, Maryland, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and Vermont. This data comes from the 2012 US Census Bureau, which collects information about different aspects of the population.",
-    "definition": "42,148 million"
-  },
-  {
-    "term": "Question 2\n\nUsing the different types of product categories that we reviewed, please watch the following video (https://www.youtube.com/watch?v=6pF55yy0H3g&t=1s) and classify the service that Coca-Cola offered with its promotion.",
-    "definition": "Emotional, intangible and low involvement"
-  },
-  {
-    "term": "If you had launched the lemonade business we discussed in our lectures in your neighbourhood, which of the following phrases best describes the situation your product may be entering its growth phase?",
-    "definition": "Sales are growing rapidly, but so are the number of competitors. You are developing your sales channels to distribute in as many outlets as possible.."
-  },
-  {
-    "term": "Question 4\n\nWhich of the product strategies below did Apple use when they decided to launch iPhone?\n\nHere is a summary on how the Iphone was launched by Steve Jobs in 2007: https://www.history.com/this-day-in-history/steve-jobs-debuts-the-iphone",
-    "definition": "Diversification."
-  },
-  {
-    "term": "Imagine that you work for Microsoft and you are doing an analysis of the next step for the Microsoft Windows System within the desktop market. Using the data below, where would you place it within the BCG matrix?",
-    "definition": "Cow"
-  },
-  {
-    "term": "Question 6\nWhich of the below is NOT a key success factor when launching a new product?",
-    "definition": "Giving R&D the liberty to come up with whichever product they think will be the next big hit."
-  },
-  {
-    "term": "Quiz 2 Mooc 1\n1.\nQuestion 1\nWhat are the key inputs for developing your brand?",
-    "definition": "Business strategy, brand image, market trends, customer analysis, competitive analysis."
-  },
-  {
-    "term": "2.\n\nQuestion 2\n\nRead the following phrase and think about our lemonade business. Select whether the statement is an end-benefit, an attribute or neither for our lemonade business: \"Our lemonade makes you feel fresh and energized\"",
-    "definition": "End-benefit."
-  },
-  {
-    "term": "Question 3\nIn the following advertising, please identify which one is the \"reason to believe\":",
-    "definition": "The curves on the models."
-  },
-  {
-    "term": "Question 4\nWhich of the following is a well-written brand value for innovation for a company in the sports business?",
-    "definition": "\"For us, Innovation means enhancing the performance of our customers through the use of technology.\""
-  },
-  {
-    "term": "Question 5\nOne of the criteria for evaluating brand strategies is being relevant. Which of the answers below explains what it means to be relevant?",
-    "definition": "It means being meaningful to your target customers."
-  },
-  {
-    "term": "Question 6\n\nRead the following three sentences about FedEx and answer the question in bold:\n\nSentence 1: For businesses of all sizes, Fedex is the solutions and logistics company that provides peace of mind through unparalleled innovation, quality, and consistency.\n\nSentence 2: Business solutions for your peace of mind.\n\nSentence 3: Relax, It’s Fedex.\n\nWhich one of these sentences is the company's positioning statement?",
-    "definition": "Sentence 1"
-  }
+  "quizSrc": [
+    {
+      "term": "Given the information below, please select which answer is the closest number for moviegoers (number of people who go to the movies) in the northeast United States with the following information.",
+      "definition": "42,148 million"
+    },
+    {
+      "term": "Using the different types of product categories that we reviewed, please watch the following video (https://www.youtube.com/watch?v=zlA9tXYxD8g or https://vimeo.com/94494054) and classify the service that Coca-Cola offered with its promotion.",
+      "definition": "Functional, intangible and low involvement."
+    },
+    {
+      "term": "If you had launched the lemonade business we discussed in our lectures in your neighborhood, which of the following phrases best describes the situation your product may be entering its growth phase?",
+      "definition": "Sales are growing rapidly, but so are the number of competitors. You are developing your sales channels to distribute in as many outlets as possible."
+    },
+    {
+      "term": "Which of the product strategies below did Apple use when they decided to launch iPhone?",
+      "definition": "Diversification."
+    },
+    {
+      "term": "Imagine that you work for Microsoft and you are doing an analysis of the next step for the Microsoft Windows System. Using the data below, where do you think you would place it within the BCG matrix?",
+      "definition": "Cow."
+    },
+    {
+      "term": "Which of the below is not a keys success factor when launching a new product?",
+      "definition": "Giving R&D the liberty to come up with whichever product they think will be the next big hit."
+    },
+    {
+      "term": "What are the key inputs for developing your brand?",
+      "definition": "Business strategy, brand image, market trends, customer analysis, competitive analysis."
+    },
+    {
+      "term": "Read the following phrase and think about our lemonade business. Select whether the statement is an end-benefit, an attribute or neither for our lemonade buisness:",
+      "definition": "Attribute."
+    },
+    {
+      "term": "In the following advertising, please identify which one is the “reason to believe”:",
+      "definition": "The curves on the model."
+    },
+    {
+      "term": "Which of the following is a well-written brand value for innovation for a company in the sports business?",
+      "definition": "For us, Innovation means enhancing the performance of our customers through the use of technology."
+    },
+    {
+      "term": "One of the criteria for evaluating brand strategies is being relevant. Which of the answers below explains what it means to be relevant?",
+      "definition": "It means being meaningful to your target customers."
+    },
+    {
+      "term": "Read the following three sentences about FedEx and answer the question in bold: Sentence 1: For business of all sizes, Fedex is the solutions and logistics company that provides peace of mind through unparalleled innovation, quality and consistency. Sentence 2: Business solutions for your peace of mind. Sentence 3: Relax, It’s Fedex. Which one of these sentences is the company’s brand essence?",
+      "definition": "Sentence 1."
+    },
+    {
+      "term": "What is brand equity?",
+      "definition": "A set of attributes that summarize how the Brand connects with its stakeholders, i.e. wants to be perceived, and defines the Brand personality/character."
+    },
+    {
+      "term": "Which of the below are brand architecture models?",
+      "definition": "House of brands, hybrid and branded house."
+    },
+    {
+      "term": "Which of the below are indicators that you might have a brand architecture issue or opportunity?",
+      "definition": "All of the above."
+    },
+    {
+      "term": "Which one of the options below is the right input to develop your brand architecture? An understanding of…",
+      "definition": "how the customers view & define the category."
+    },
+    {
+      "term": "Which one of the below is NOT a logical organizing principle for unisex sports clothing?",
+      "definition": "By color."
+    },
+    {
+      "term": "Look at the images below and think about which model of brand architecture Starwood Hotels uses?",
+      "definition": "House of brands."
+    },
+    {
+      "term": "What question does a brand portfolio tackle?",
+      "definition": "How should I use my brands to achieve top- and bottom-line growth?"
+    },
+    {
+      "term": "Read the following situation and decide whether it is a portfolio question or a brand architecture issue: “You need to understand what is the impact of adding a “last name” to your existing brand. For example, if your product is Lemonlife, you are considering doing Lemonlife by ABC Industries.”",
+      "definition": "Portfolio."
+    },
+    {
+      "term": "Which of the answers below is a list of key criterion to evaluate when you FIRST DECIDE to expand your brand internationally?",
+      "definition": "How fierce is the competition? How long have they been there? What is their presence and what are their customer loyalty levels?"
+    },
+    {
+      "term": "Which one of the below is not a sign that your organization might be suffering from a portfolio issue?",
+      "definition": "There is no internal system for managing how new brands, or sub-brands are developed."
+    },
+    {
+      "term": "Imagine that it is 5 years from now, and our Lemonade business has grown dramatically. We launched our lemonade business with the Lemon-Life brand below, and we are now evaluating other categories in which to launch products. Our goal is to grow our revenues 5 times in the next 5 years. R&D has developed the following pipeline of potential products. Our brand: Our Pipeline: Which of the below questions should you answer before deciding under which brand you would launch each product? a. Does this initiative generate sufficient revenues and return for on-going support to the brand / product? b. If we use the Lemon-life brand, could it inhibit or take away attributes to the product’s brand promise? c. Should we allow the launch team to decide based on their intuition? d. Do we want all products associated with the same brand? e. Do we need different brand essences? f. Are there different Needs / Attitudinal segments within the potential customers? g. Will we price them all in the same tier? Or will they be participating in different pricing tiers? h. Is there a driver that can be leveraged to create a brand platform? i. Do consumers behave the same in the different categories (i.e. how they use the product, where they buy, when they buy, why they buy)? j. Should we maximize savings by using only one brand? k. Is there fierce competition in the categories where we are launching the product? l. How will each product’s revenues and margins be affected by the decision? m. All of the above n. None of the above",
+      "definition": "A through to J."
+    },
+    {
+      "term": "Imagine that it is 10 years from now, and we have already made various brand decisions, and our brand portfolio looks like the one below. Without any other information (i.e. consumer research, sales, etc.), please identify from the list below, which issues and opportunities your brand portfolio might be facing.",
+      "definition": "All of the above."
+    },
+    {
+      "term": "In the text below, which phases of the purchase funnel are mentioned? When searching for information for my next trip, I came across an advertisement of South Africa in a travel magazine. I went online and looked at the different itineraries that I could do in that country. I also read some of the reviews of hotels, attractions, bus and train options. I evaluated other options such as Zimbabwe, Kenya and Tanzania. Finally, I decided on South Africa and made my reservation through a travel agent in that country, who responded promptly to my request.",
+      "definition": "Awareness, Consideration, Purchase."
+    },
+    {
+      "term": "Which one of the below is an example of a touchpoint?",
+      "definition": "Sales clerk."
+    },
+    {
+      "term": "Which of the lists below best captures the different roles that your touchpoints can play in the customer experience?",
+      "definition": "Branded Differentiators, Signature Icons, Category Redefiners and Guest Expectations."
+    },
+    {
+      "term": "Which of the examples below, best represent the pre-purchase touchpoints for our lemonade business?",
+      "definition": "Word-of-mouth from my friend, the posters on the street and the push message on our phones."
+    },
+    {
+      "term": "In lecture 5.3, I described an interview with a hotel client. Using that information please select which of the lists below best exemplifies the touchpoints that represent the potential bottleneck for the family to move from the Purchase to the Loyalty phase of the purchase funnel. (You can review the text of the specific part of the video in the file below).",
+      "definition": "Online booking, Bed, Shower, Reception staff for check in and check out, online review."
+    },
+    {
+      "term": "Using the matrix tool for evaluating touchpoints that was discussed in lecture 5.4, containing “ease if implementation” on the x axis and “relevancy for the customer” on the y axis, please decide whether you would invest, evaluate more or discard the following touchpoint for our lemonade business: “A certificate that provides the specific origin and batch of each lemon used in your lemonade.”",
+      "definition": "Don’t invest."
+    },
+    {
+      "term": "What is the first step to define your internal communication and training program?",
+      "definition": "Understanding who is your audience."
+    },
+    {
+      "term": "What is a crucial role to recruit when embedding the brand in your organization?",
+      "definition": "The Brand Champions (or Ambassadors)."
+    },
+    {
+      "term": "What is the most important action to take when launching a brand engagement program?",
+      "definition": "Have your top management’s endorsement."
+    },
+    {
+      "term": "The following 3 questions are related to the following mini-case. Remember from Module 4, that we had decided to launch our lemonade business under the brand “Lemon-Life”. Imagine that we are now opening our 6th neighborhood kiosk. We have a workforce of 15, 2 per kiosk and 3 in a central facility coordinating everything from purchasing, marketing, HR, Finance, etc. Our biggest success is delivery, with sales growing 100% each month. We are beginning our brand engagement program. After an exhaustive process we defined our brand as: If you are in charge of defining the metrics that we will use to measure on-brand behavior in our program, taking into account that this is a new brand and our employees have never had any formal training in our brand, which one would you use in our “Hearing Phase” and why? Please select a metric and rationale from the options. Metric a. Number of new products launched b. Revenues c. Referral d. Brand awareness e. Brand consideration Rationale: Because… f. Our brand will only be known by how many people purchase our lemonade. g. Word of mouth and social networking recommendations are what will let future customers know who we are. h. We want employees and customers to know what our brand is all about. i. What is crucial is that our employees need to understand the customer’s decision making process. j. The only way to continue growing is through the launch of new products.",
+      "definition": "d and h."
+    },
+    {
+      "term": "(Refer to the example shown in question 4) For our program we have chosen 2 Brand Champions and they are in charge of leading the teams to embed the brand values throughout the different touchpoints. Which of the below descriptions would you use as criterion for recognizing their behavior?",
+      "definition": "Assisting fellow colleagues in guidance of what is considered on-brand behavior."
+    },
+    {
+      "term": "(Refer to the example shown in question 4) Given the description of our Customer Centric value, which of the following best represents a behavior that we would like our employees to have in the following situation: “R&D has proposed that we launch a new face crème, which is based on lemon extract, with all natural ingredients. What should we do?”",
+      "definition": "Label it with our brand and begin selling it at our kiosks."
+    },
+    {
+      "term": "Imagine you are the marketing manager of ACME & Sons. Currently you are selling 4,000 units of your product at a price of 10€. You also know that the variable cost and fixed cost of production are 5.50€ per unit and 15,000€ respectively. By what percentage could the sales volume drop to make a 5% price increase and still make the same profit? (Assuming that no additional fixed cost will be incurred and variable cost remain stable)",
+      "definition": "10%"
+    },
+    {
+      "term": "By increasing the price by 5%, unit sales drop by 7%. What is the price elasticity? Is the demand elastic or inelastic?",
+      "definition": "-1.4"
+    },
+    {
+      "term": "A product has a price elasticity of -1.3. What is the unit sales variation going to be due to a price increase of 10%?",
+      "definition": "-13%"
+    },
+    {
+      "term": "A product is being sold at a price of €110. After a price increase to €130, the number of units sold drops from 5,000 units to 4,500 units. What is the price elasticity?",
+      "definition": "-0.55"
+    },
+    {
+      "term": "Roofing INC. sells roof shingles and supplies. Historically, its market has been in Madrid. Roofing INC. is now considering entering the market in Barcelona as well. The estimated demand for both markets is as follows: If you want to maximize profits, how would you price the product if fixed costs are €5 million, variable costs are €5 per square yard, and it costs an extra €2 per square yard to ship items to Barcelona?",
+      "definition": "€20"
+    },
+    {
+      "term": "Imagine a retailer considering a 33-percent-off sale on blenders currently priced at $54. The retailer pays $29 per blender from the manufacturer. How much has the volume to increase for the sale to maintain profits?",
+      "definition": "248%"
+    },
+    {
+      "term": "Consider a wind turbine manufacturer. Currently, a 1.5 MW wind turbine has a price of $1.7M and $1.3M in variable cost. If the manufacturer considers raising the price by 3%, what would be the allowable volume loss to at least maintain profits? (Please provide your answer in percentage without including the % sign. You can add an approximate or up to 1 decimal point)",
+      "definition": "11.31"
+    },
+    {
+      "term": "Wild Blue Preserves makes 15 different jams and jellies. They set up a small shop in a local mall to sell their products alongside other prepared foods. A jar of wild blueberry jelly costs $1.50 per 250 ml jar to produce. The mark-up pricing percentage Wild Blue Preserves plans to use is 100 per cent. What would be the final price using cost-based pricing?",
+      "definition": "3.00"
+    },
+    {
+      "term": "An established producer of beef jerky decides to use market penetration pricing at a local convenience store. A study of other convenience stores shows a price range for jerky of $2.00 to $3.00 per 100 g package. Considering the seller would like to enter the market aggressively to gain market share, what would be the appropriate price for a 100 g package?",
+      "definition": "Less than $2"
+    },
+    {
+      "term": "What is the price elasticity if an increase in price of 10% leads to a unit sales drop of 5%?",
+      "definition": "-0.5"
+    },
+    {
+      "term": "Assume that a product has a price elasticity of -0.7. In order to reduce unit sales by 20%, what would the necessary price increase be? (Give your answer either as an estimate or to within one decimal place. The answer should be as a percentage, but do not include the % sign)",
+      "definition": "Enter answer here"
+    },
+    {
+      "term": "A product is being priced at 100€ and is being sold 3,000 times. The price elasticity is estimated to be -2.0. By how much would the revenues change when increasing the price by 5%? (Negative if a decrease and positive if an increase)",
+      "definition": "Enter answer here"
+    },
+    {
+      "term": "Let’s imagine you own a Porsche dealership that has been authorized to sell the new 911, which has a suggested retail price of $70,000. Dealerships commonly adjust price substantially upwards or downwards in response to local demand conditions. You think the demand for the 911 looks as follows in your market: Given that you can purchase the Porsche 911 for $60.000, how would you price the Porsche 911 to maximize profits?",
+      "definition": "$80,000"
+    },
+    {
+      "term": "A German mobile phone manufacturer conducted an experiment with new car purchasers who bought (or didn’t buy) a certain mobile phone. They tested these sales at three different price points: €1,200 , €900 and €600 as shown in the chart below: Assuming that the production of the mobile phone is €300, and that your objective is to maximize profits, which would be the appropriate price? You can assume a total market size of 100 car purchasers.",
+      "definition": "€900"
+    },
+    {
+      "term": "Which of the following is correct about profit?",
+      "definition": "Profit = Revenues – Variable Costs – Fixed Costs"
+    },
+    {
+      "term": "If our company raises prices while the competition maintains prices, what will happen most likely with our sales volume?",
+      "definition": "Drop"
+    },
+    {
+      "term": "As the marketing manager for the Samsung S6 you are responsible for setting prices in the Spanish market. You have decided that using market data to find the profit maximizing price is the right approach. You therefore ask your marketing research department for the necessary information. After a couple of days they inform you that the fixed cost of production is €200,000 and that the variable cost is €200 per phone. They also have been able to collect sales data for the past year. It seems the price had changed four times over the past year. With this information, which would be the optimal price to sell the Samsung S6?",
+      "definition": "€450"
+    },
+    {
+      "term": "As far as you can remember, there has always been a rivalry between Mercedes and BMW. Thus, as the pricing manager at Mercedes, you always have to keep an eye on BMW’s prices and sales figures. This is especially important when revising the prices at Mercedes. Your boss has asked you to analyze whether the current price still is at optimal levels or whether it should be changed. In order to answer this question you received the following data from your colleagues in the marketing department. You are also told that the total luxury car market in the US has a volume of 1.626.667 cars sold. The price you currently charge is $34.745. Should this price be changed if it is your objective to maximize revenues? If so, to what price?",
+      "definition": "No, it should stay at $34,745"
+    },
+    {
+      "term": "As a marketing manager at Toyota you are being charged with setting the price for the new Auris. You conducted a Gabor Granger exercise and got the following information: You know that your market has a potential of 100.000 cars. You are interested in finding the price which maximizes your revenues. What would be the correct price?",
+      "definition": "€25,000"
+    },
+    {
+      "term": "AT&T offers Internet, mobile phone services, landline phone services and digital TV. Assume that there are two customer segments: Millennial and Traditional, for a total of 50 million customers. Their willingness to pay and share of the market is: [Revenue calculation implied] What would be the total revenue?",
+      "definition": "$5,450,000,000"
+    },
+    {
+      "term": "AT&T offers Internet, mobile phone services, landline phone services and digital TV. Assume that there are two customer segments: Millennial and Traditional, for a total of 50 million customers. Their willingness to pay and share of the market is: If AT&T has a price menu of three packages: Mobile + Internet for $95, Phone + TV for $115 and Mobile + Internet + Phone + TV for $144, what would be the total revenue under this model?",
+      "definition": "$6,465,000,000"
+    },
+    {
+      "term": "Disney offers both hotel rooms and entrance to their theme parks at their resorts. Consider four different market segments with willingness to pay for rooms and theme park, as well as market shares shown below. Assume a market size of 5,000 individuals per day. Disney prices the Room at $300 and Theme Park at $150. These are not bundled, and can be purchased separately. What is the total revenue earned under this scenario for one day?",
+      "definition": "$975,000"
+    },
+    {
+      "term": "Consider now a scenario in which Disney considers selling a bundle. You still have the four different market segments and a total market size of 5,000 individuals per day. Here again the data as in the previous question: Disney prices the Room at $325, Theme Park for $200 and Room + Theme Park for $350. Customers can only choose one of the packages. What is the total revenue earned under this scenario for one day?",
+      "definition": "$1,350,000"
+    },
+    {
+      "term": "Lets consider again the willingness to pay for a hotel room and theme park entrance for the four market segments. Also assume as before a market size of 5,000 individuals per day. Which would be the optimal price to maximize revenue for the Room and Theme Park, without considering the possibility of bundling?",
+      "definition": "Room: $200, Theme Park: $150"
+    },
+    {
+      "term": "Assume that before the launch of iPhone in 2007, Apple had conducted an experiment examining 2,400 consumers to assess the potential demand of iPhones across different price points. First, they divided them among iPod owners (1,200 of them, half the sample), and non-iPod owners. They were all offered the opportunity to pre-order one 4GB iPhone at a specified price. One third of the participants were offered a price of $299 (low); one third a price of $399 (medium); and one third a price of $499 (high). In the table below you’ll see what percentage of each group pre-ordered the corresponding iPhone. Assuming that the production cost of the 4GB iPhone is $150 per unit, that the target market size is 100 million customers, that the previous study is representative of the total market, that 50% of the target population owns an iPod and that Apple wants to maximize profits, which would be the optimal price for each segment?",
+      "definition": "$499 for iPod non-owners, $399 for iPod owners"
+    },
+    {
+      "term": "Assume the following willingness to pay for three customer segments for their first five visits to a movie theater: Which would be the revenue if we could optimize the price for each visit?",
+      "definition": "$67.50"
+    },
+    {
+      "term": "You just recently joined American Express in their credit card business. More specifically you have assumed the responsibility for the Spanish market. One of the responsibilities is to decide how many versions of a credit card to offer and at what price. Everything is on hold until you decide what to do. To help you with your decision, you obtained estimates of the market potential for the different versions under consideration and the respective cost of launching the product in the market and deliver the necessary service. Find below the corresponding segments and their willingness to pay for each of the versions of the credit cards. Assume further that the Standard American Express has a marketing expense of €50,000 and a variable cost of €5, and that the Gold American Express has a marketing expense of €150,000 and a variable cost of €15. What would be the optimal price for each version?",
+      "definition": "Standard: €20, Gold: €40"
+    },
+    {
+      "term": "You just recently joined American Express in their credit card business. More specifically you have assumed the responsibility for the Spanish market. One of the responsibilities is to decide how many versions of a credit card to offer and at what price. Everything is on hold until you decide what to do. To help you with your decision, you obtained estimates of the market potential for the different versions under consideration and the respective cost of launching the product in the market and deliver the necessary service. Find below the corresponding segments and their willingness to pay for each of the versions of the credit cards. Assume further that the Standard American Express has a marketing expense of €50,000 and a variable cost of €5, and that the Gold American Express has a marketing expense of €150,000 and a variable cost of €15. If you would have to launch only one product, which one would you launch? At what price?",
+      "definition": "Gold: €40"
+    },
+    {
+      "term": "Are consumers more likely to rely on price as a quality indicator for products or services?",
+      "definition": "Services"
+    },
+    {
+      "term": "Imagine you are the marketing manager overseeing television sets. Currently you have two products in your portfolio: one at a price of $399 and another at $499. In order to drive sales of the existing products, at what price would you launch a third television set?",
+      "definition": "A television set at $699"
+    },
+    {
+      "term": "You have just recently been hired as a sales representative and today you will have your first meeting with a client. Your company offers multiple products at different prices – from cheap to expensive. When presenting to the client the overall product portfolio, how to best present the options?",
+      "definition": "Start at the highest priced item"
+    },
+    {
+      "term": "Assume that Apple is currently offering the following two versions of the iPod: According to the theory of the decoy effect customers are likely to choose which option?",
+      "definition": "According to the theory of the decoy effect customers are likely to choose A"
+    },
+    {
+      "term": "According to prospect theory, do consumers prefer winning $5 twice or $10 once?",
+      "definition": "$10 Once"
+    },
+    {
+      "term": "According to prospect theory, do consumers prefer a $5 discount on a $500 product or $50 product?",
+      "definition": "$50"
+    },
+    {
+      "term": "According to the relationship between price and demand, at what price would you expect to sell the largest volume of a product?",
+      "definition": "$59"
+    },
+    {
+      "term": "Why do price endings influence consumers in their decision-making?",
+      "definition": "Due to the level and image effect"
+    },
+    {
+      "term": "In case we would like our customers to feel less pain of paying should we encourage cash or credit card payments?",
+      "definition": "Credit card payments"
+    },
+    {
+      "term": "Which channel function does not help to fulfill the completed transactions?",
+      "definition": "Information"
+    },
+    {
+      "term": "Which of the following sentences defines a ¨Push Strategy¨?",
+      "definition": "Manufacturer uses several forms of communication to persuade consumers to demand the product."
+    },
+    {
+      "term": "Which one of the following is not one of the main steps when designing a distribution model?",
+      "definition": "Analyze the environment."
+    },
+    {
+      "term": "Which of the following is not a key factor in channel management.",
+      "definition": "Update"
+    },
+    {
+      "term": "Which of the following is not a critical to ask about market-by-market growth?",
+      "definition": "Should we follow the strategy of the best performers in the market?"
+    },
+    {
+      "term": "Which of the following is not a main marketing logistics function?",
+      "definition": "Financing the merchandise"
+    },
+    {
+      "term": "What definition best reflects what a merchant wholesaler does?",
+      "definition": "Takes title of goods."
+    },
+    {
+      "term": "Which of the following aspects influences a channel being shorter?",
+      "definition": "Complexity of purchase process."
+    },
+    {
+      "term": "Which of the following is NOT one of the three rules for building a modern retail organization that will support an Omni-channel strategy?",
+      "definition": "Plan medium and long-term."
+    },
+    {
+      "term": "Which one of the following segmentation criteria can you establish to minimize conflict?",
+      "definition": "Industry"
+    },
+    {
+      "term": "Which is one correct definition when describing Trade Marketing?",
+      "definition": "It is a strategic alliance."
+    },
+    {
+      "term": "What of the following are trade marketing objectives?",
+      "definition": "Improve Point of Sales (POS) turnover."
+    },
+    {
+      "term": "What is one of the main Category Manager (CM) functions?",
+      "definition": "Develop strategic plans for a certain product line."
+    },
+    {
+      "term": "Which of the following is NOT a way retailers can improve their promotion performance and increase their margins on promotions?",
+      "definition": "Design a promotion process within the department in charge."
+    },
+    {
+      "term": "What type of channel conflict did Goodyear face when several channels started to sell to the same target market?",
+      "definition": "Multichannel"
+    },
+    {
+      "term": "The person in charge of a large client is the:",
+      "definition": "Key Account Manager"
+    },
+    {
+      "term": "What main activity do retailers NOT provide?",
+      "definition": "Keeping bulk."
+    },
+    {
+      "term": "Which of the following is NOT considered an important development that is taking place in retail?",
+      "definition": "Age of information"
+    },
+    {
+      "term": "Which of the following descriptions of the breadth and depth of an assortment is correct?",
+      "definition": "None of them"
+    },
+    {
+      "term": "What aspects from the consumer experience DOES NOT have a strong impact on brand advocacy?",
+      "definition": "Price"
+    },
+    {
+      "term": "Which of the following sentences regarding Sustainable Competitive Advantages (SCA) is right?",
+      "definition": "For some brands such as ZARA, Distribution and information Systems are one SCA."
+    },
+    {
+      "term": "In which order should the so called “S.T.O.R.E.” five-step approach, to the reassessment of the role of the physical store, be implemented?",
+      "definition": "Redefine the Role of the Store; Adjust Categories; Maximize the Portfolio; Redesign In-store experience and Implement across channels."
+    },
+    {
+      "term": "Which is NOT a benefit of Omni-Channel Retailing, especially for the traditional store-based and catalogue retailers when using electronic channels.",
+      "definition": "Becoming a leader"
+    },
+    {
+      "term": "Which of the following is NOT a critical companies need to address to achieve customer-management excellence in emerging markets?",
+      "definition": "How we will maintain our strategy?"
+    },
+    {
+      "term": "Which of the following sentences does NOT define Efficient Customer Response (ECR)?",
+      "definition": "Increase final customer satisfaction."
+    },
+    {
+      "term": "Which of the following can retailers NOT be classified by?",
+      "definition": "Communication"
+    },
+    {
+      "term": "Which of the following are the main components of a Retail Strategy?",
+      "definition": "Target Market and Format/Marketing Mix and Sustainable Competitive Advantage."
+    },
+    {
+      "term": "Which is NOT one of the main growth strategies?",
+      "definition": "Franchising"
+    },
+    {
+      "term": "Which one is NOT a main characteristics of retailers to exploit international growth opportunities?",
+      "definition": "Communication Campaign"
+    },
+    {
+      "term": "If we talk about entry strategies, which of the following Entry Strategies requires the highest level of investment for the retailer?",
+      "definition": "Direct Investment"
+    },
+    {
+      "term": "Which of the following Golden Rules for a successful Franchise is the most critical?",
+      "definition": "Select the right Partner"
+    },
+    {
+      "term": "Which of the following definitions is right?",
+      "definition": "Both of them"
+    },
+    {
+      "term": "Which of the following is NOT a mobile shopping myth?",
+      "definition": "The App is the answer."
+    },
+    {
+      "term": "Which of the following is NOT a reason DATA is becoming a competitive advantage in Future Retailing?",
+      "definition": "The need to have a lot of Information"
+    },
+    {
+      "term": "If you are a brand that has already covered the domestic retail market and you are already active in international expansion, what other two growth strategies could you use?",
+      "definition": "Retail Format Development and Diversification"
+    },
+    {
+      "term": "The ability of consumers to retrieve a brand from memory when given the product category is called:",
+      "definition": "Brand equity"
+    },
+    {
+      "term": "__________ is the consumers’ ability to identify the brand under different conditions, as reflected by their brand recognition or recall performance.",
+      "definition": "Brand awareness"
+    },
+    {
+      "term": "The range of purchase and consumption situations where the brand comes to mind is considered as:",
+      "definition": "Breadth of brand awareness"
+    },
+    {
+      "term": "________________ is the process of evaluating each consumer segment’s attractiveness and selecting one or more segments according to their attractiveness for the company.",
+      "definition": "Targeting"
+    },
+    {
+      "term": "__________ is the process of occupying a clear, distinctive, and desirable place in consumer’s minds relative to competing products.",
+      "definition": "Positioning"
+    },
+    {
+      "term": "Please state which of the below concepts describe how well a market offering fulfills customer needs.",
+      "definition": "Brand performance"
+    },
+    {
+      "term": "________________ means the degree to which a consumer consistently purchases the same brand within a specific product category.",
+      "definition": "Brand loyalty"
+    },
+    {
+      "term": "Which of the following statements about brand loyalty is NOT correct?",
+      "definition": "Brand loyalty depends purely on emotional aspects of consumer-brand relationship"
+    },
+    {
+      "term": "Consumers exhibiting ___________ loyalty generally have one or more specific reasons for their purchase decisions and they can easily articulate these reasons.",
+      "definition": "Head loyalty"
+    },
+    {
+      "term": "___________ loyalty is habitual. The consumer is loyal to the product not because of an emotional or rational involvement, but simply because of a routine that he or she has established.",
+      "definition": "Hand loyalty"
+    },
+    {
+      "term": "Please indicate which of the following is NOT one of the four steps of the Selective Processes Theory:",
+      "definition": "Selective Adaptation"
+    },
+    {
+      "term": "Please read the following definition: People tend to seek out the viewpoints that they agree with. Please indicate which step of the Selective Processes Theory, this definition corresponds to:",
+      "definition": "Selective Attention"
+    },
+    {
+      "term": "Which is the correct order of the steps of effective communications? a. Design communications b. Identify target audience c. Decide on the media mix d. Determine communications objective e. Select channels f. Measure results",
+      "definition": "b, d, a, e, c, f"
+    },
+    {
+      "term": "Please indicate which of the following is NOT an external search source during the consumer decision making process:",
+      "definition": "Product usage experiences"
+    },
+    {
+      "term": "Please indicate which of the following is NOT one of the dimensions of the FCB Grid:",
+      "definition": "Reactive"
+    },
+    {
+      "term": "AIDA stands for attention, ________, desire and _________.",
+      "definition": "Interest; action"
+    },
+    {
+      "term": "The first step of hierarchy of needs in which the consumer learns to recognize the product or brand name is:",
+      "definition": "Awareness"
+    },
+    {
+      "term": "___________ effect occurs at the point where the advertising or communication begins to affect consumer responses in a more positive direction and have greater incremental effect on sales. Which is correct to fill in the blank?",
+      "definition": "Threshold"
+    },
+    {
+      "term": "Which method of setting an integrated marketing communications budget is based on the fallacy that communications cause sales?",
+      "definition": "Percentage of sales budgeting"
+    },
+    {
+      "term": "______________ budgeting is the allocation of marketing communications funds to match the competitor’s level of spending. Which is correct to fill in the blank?",
+      "definition": "Meet the competition"
+    },
+    {
+      "term": "Please indicate the dominant message strategy used in the below visual: [Image of mints - https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/AvU47RFQEeaz1wpXV4urCQ_6befaa9674d1635362402252f34492c1_Practice-quiz-mints.jpg]",
+      "definition": "Hyperbole"
+    },
+    {
+      "term": "A cognitive message strategy:",
+      "definition": "is the presentation of rational arguments or pieces of information to consumers"
+    },
+    {
+      "term": "An affective message strategy:",
+      "definition": "invokes feelings or emotions and matches these with the good, service, or company being advertised"
+    },
+    {
+      "term": "Please indicate the dominant message strategy used in the below visual: [Image of baby - https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/SPuOXBFQEeaY9hLgv1uMbQ_3bab55b8846936c99027a92780864af4_Practice-quiz-baby.jpg]",
+      "definition": "Generic"
+    },
+    {
+      "term": "The two types of affective message strategies are:",
+      "definition": "resonance and emotional"
+    },
+    {
+      "term": "Which message strategy is designed to trigger impulse buys?",
+      "definition": "conative"
+    },
+    {
+      "term": "Please indicate the dominant message strategy used in the below visual: [Image of Pepsi - https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/E1FjLBFSEeacJw5xmvIInw_716e588c2dc1b5bc45e6ee2b334c09c2_Practice-quiz-pepsi.jpg]",
+      "definition": "Comparative"
+    },
+    {
+      "term": "Which conative message strategy is linked to promotions, such as coupons, premiums, and sweepstakes?",
+      "definition": "action-inducing"
+    },
+    {
+      "term": "The leverage point is the:",
+      "definition": "Key element in an advertisement that activates a consumer’s personal value system"
+    },
+    {
+      "term": "An advertising appeal is the:",
+      "definition": "Key idea or ideas that an advertisement is to convey"
+    },
+    {
+      "term": "Which message strategy is linked with reasoning and thinking processes?",
+      "definition": "Affective"
+    },
+    {
+      "term": "Which message strategy is most linked with emotions?",
+      "definition": "Conative"
+    },
+    {
+      "term": "Ads using an informative executional framework are best suited for:",
+      "definition": "High involvement purchase decisions"
+    },
+    {
+      "term": "Which conative message strategy is linked to impulse buys?",
+      "definition": "Action-inducing"
+    },
+    {
+      "term": "A hyperbole cognitive message strategy is a(n):",
+      "definition": "Untestable claim based upon some attribute or benefit"
+    },
+    {
+      "term": "A negative comparison ad that causes people to dislike the sponsor brand may be due to:",
+      "definition": "Spontaneous trait transference"
+    },
+    {
+      "term": "Which type of executional framework seeks to convince buyers that a product is superior through using some type of expert or evidence?",
+      "definition": "Authoritative"
+    },
+    {
+      "term": "When a product solves a daily life problem, which type of executional framework do you think is more suitable for the product’s advertising?",
+      "definition": "Slice-of-life"
+    },
+    {
+      "term": "___________ is the concept under which a company integrates and coordinates its many communications tools to deliver a clear, consistent, and compelling message about the company and its products.",
+      "definition": "Integrated demand characteristics"
+    },
+    {
+      "term": "________ is a marketing communications tool in which marketers are able to present their brands ‘naturally’ within a TV show or movie for a fee.",
+      "definition": "Product placement"
+    },
+    {
+      "term": "________ is used to influence the way an organization is perceived by its various stakeholders.",
+      "definition": "Public relations"
+    },
+    {
+      "term": "Which tool of the marketing communications mix consists of short-term incentives to encourage consumers to purchase a product or service?",
+      "definition": "Sales promotions"
+    },
+    {
+      "term": "________ is a type of marketing communication in which consumers pass along marketing content of a brand to others through the Internet. Consumers do this without receiving a fee, and the content is often creative and provocative.",
+      "definition": "Viral marketing"
+    },
+    {
+      "term": "If a company wants to build a reputable “corporate image,” it will most likely use which of one the following marketing communications mix tools?",
+      "definition": "Public relations"
+    },
+    {
+      "term": "When a company aims to reach masses of potential consumers that are geographically dispersed at a low cost per exposure, the company will most likely choose which of the following marketing communications tools?",
+      "definition": "Advertising"
+    },
+    {
+      "term": "If McDonalds includes a free toy from a Disney movie in its happy meals for kids, what type of sales promotion is used?",
+      "definition": "Premiums"
+    },
+    {
+      "term": "________ is a tool that allows consumers to try out products without the risk of deviating from a product that they already know.",
+      "definition": "Price-off"
+    },
+    {
+      "term": "________ is a practice that helps search engines to reach the content in our websites more effectively through organic (not paid) searches.",
+      "definition": "Search engine optimization"
+    }
   ]
-  }
+}
